@@ -1,0 +1,14 @@
+{
+    "name": "niptict/testing",
+    "description": "this projest just for testing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "manith",
+            "email": "manithchhuon@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.5"
+    }
+}
